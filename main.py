@@ -36,8 +36,3 @@ class TodoItem:
 
     def __repr__(self):
         return self.task
-1. git init
-2. git add (Название файла)
-3. git commit -m "(описание)"
-4. git remote add origin (ссылка на гитхаб)
-5. git push origin master (или main)
